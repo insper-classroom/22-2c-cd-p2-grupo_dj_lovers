@@ -1,4 +1,4 @@
-city,area,rooms,bathroom,parking spaces,floor,animal,furniture,hoa (R$),rent amount (R$),property tax (R$),fire insurance (R$),total (R$)
+city,area,rooms,bathroom,parking_spaces,floor,animal,furniture,hoa,rent_amount,property_tax,fire_insurance,total
 São Paulo,70,2,1,1,7,acept,furnished,2065,3300,211,42,5618
 São Paulo,320,4,4,0,20,acept,not furnished,1200,4960,1750,63,7973
 Porto Alegre,80,1,1,1,6,acept,not furnished,1000,2800,0,41,3841
@@ -2561,7 +2561,7 @@ Belo Horizonte,85,3,1,0,2,not acept,not furnished,150,1100,150,15,1415
 São Paulo,25,1,1,0,14,acept,not furnished,304,2200,60,28,2592
 Porto Alegre,105,3,3,0,3,acept,not furnished,840,2125,111,32,3108
 São Paulo,144,4,2,2,6,acept,not furnished,1820,4800,667,61,7348
-Belo Horizonte,80,3,2,2,301,acept,not furnished,750,2600,164,35,3549
+Belo Horizonte,80,3,2,2,3,acept,not furnished,750,2600,164,35,3549
 São Paulo,100,1,1,0,-,acept,not furnished,0,1530,84,23,1637
 Belo Horizonte,649,5,5,6,-,acept,furnished,0,15000,1065,246,16310
 Porto Alegre,55,2,1,1,2,acept,not furnished,300,850,30,13,1193
