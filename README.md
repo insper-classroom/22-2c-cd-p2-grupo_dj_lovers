@@ -1,6 +1,6 @@
 # Projeto 2: Ciência dos Dados Insper 2022-2
 
-## Predição do Preço de Imóveis Brasileiros
+## Predição do Preço de Apartamentos Brasileiros
 ____
 ### Alunos:
 
@@ -12,7 +12,7 @@ ____
 ____
 ### Descrição do Projeto
 
-O objetivo do trabalho será prever o preço de um imóvel dependo de qual cidade está localizado, a área da propriedade, quantidade de quartos, banheiros, vagas de estacionamento e andares, se permite animais na residência, se é mobiliada e o valor do condomínio.
+O objetivo do trabalho será prever o preço de um apartamento dependo de variáveis como a área da propriedade, quantidade de quartos, banheiros, vagas de estacionamento e em qual andar está.
 
 [Relatório do Projeto](./notebooks/relatorio.ipynb)
 ____
